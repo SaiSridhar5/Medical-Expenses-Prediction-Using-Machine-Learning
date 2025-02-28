@@ -1,0 +1,8 @@
+streamlit==1.15.0
+pandas==2.2.3
+joblib==1.4.2
+scikit-learn==1.6.1
+numpy==1.24.3
+matplotlib==3.9.4  # Optional, only if you want to plot
+seaborn==0.13.2  # Optional, for plotting
+pip install altair==4.0.0
